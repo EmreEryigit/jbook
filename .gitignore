@@ -1,0 +1,10 @@
+node_modules
+dist 
+packages/local-client/public/favicon.ico
+packages/local-client/public/logo192.png
+packages/local-client/public/manifest.json
+packages/local-client/public/robots.txt
+.DS_Store
+packages/local-client/.eslintcache
+.gitignore
+tsconfig.json
